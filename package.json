@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-creem-io",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for Creem - payments, subscriptions, licenses, and checkout management",
 	"license": "MIT",
 	"homepage": "https://github.com/latamflows/n8n-nodes-creem-io",
@@ -15,7 +15,7 @@
 	],
 	"author": {
 		"name": "LatamFlows",
-		"email": "hello@latamflows.com"
+		"email": "manuelreyesbravo@gmail.com"
 	},
 	"repository": {
 		"type": "git",
