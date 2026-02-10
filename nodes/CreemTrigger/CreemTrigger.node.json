@@ -1,0 +1,26 @@
+{
+	"node": "n8n-nodes-creem.creemTrigger",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Finance & Payments"
+	],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.creem.io/code/webhooks"
+			}
+		]
+	},
+	"alias": [
+		"payment",
+		"subscription",
+		"webhook",
+		"creem"
+	],
+	"subcategories": {
+		"Finance & Payments": [
+			"Payment Processing"
+		]
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"node": "n8n-nodes-creem.creem",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Finance & Payments"
+	],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.creem.io/api-reference/introduction"
+			}
+		]
+	},
+	"alias": [
+		"payment",
+		"subscription",
+		"checkout",
+		"license",
+		"creem"
+	],
+	"subcategories": {
+		"Finance & Payments": [
+			"Payment Processing"
+		]
+	}
+}
